@@ -9,7 +9,7 @@ export const Test = (props: TestProps) => {
   return <div>{props.msg}</div>
 }
 
-export const HomePage = () => {
+export const TodoList = () => {
   // const [value, setState] = useState(11)
   // const increment = () => {
   //   setState(value + 1)
